@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CarScan",
+  "description": "A modern application for managing vehicle fleets and conducting detailed checklists to ensure safety and maintenance. Users can register vehicles, perform routine checks, and view a complete history of inspections.",
+  "requestFramePermissions": []
+}
